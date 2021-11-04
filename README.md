@@ -1,1 +1,1 @@
-# WordSearchSolverC
+Wordsearch solver created in C
